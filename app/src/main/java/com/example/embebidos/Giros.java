@@ -105,6 +105,7 @@ public class Giros extends AppCompatActivity {
                 return device;
             }
         }
+
         return null;
     }
 
