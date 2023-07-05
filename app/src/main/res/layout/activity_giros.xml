@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Giros">
+
+    <Button
+        android:id="@+id/btnCon2"
+        android:layout_margin="30dp"
+        android:padding="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:text="Bluetooth"
+        android:textColor="@color/white"
+        android:elevation="10dp"
+        app:cornerRadius="30dp"
+        android:backgroundTint="@color/EspecialBlue"/>
+
+
+</RelativeLayout>
